@@ -1,10 +1,10 @@
 # KOGNITI-MINDS
-Task 1: Website Audit
+## Task 1: Website Audit
 - Performed detailed audit of `www.kognitiminds.com`
 - Checked performance, SEO, accessibility, and design
 - Deliverables: **Audit_Report.pdf** + screenshots
 
-Task 2: Performance Optimization
+## Task 2: Performance Optimization
 Objective
 The goal of this task was to improve website loading speed, mobile responsiveness, and security for the Kogniti Minds website hosted on Hostinger.
 
@@ -41,3 +41,24 @@ Security improved with SSL (HTTPS).
 Optimizations like caching and GZIP compression helped reduce page size and load time.
 
 Overall, the website is now faster, secure, and mobile-friendly.
+
+## Task 3: Feature Enhancement
+
+Features
+
+- **User Signup & Login:** Users can create an account and log in.  
+- **Track Orders:** Users can track their order status using Order ID.  
+- **Apply for Internships:** Internship application form.  
+- **Contact Form:** Users can contact the company via form.  
+- **Reviews Page:** Display user reviews.  
+- **My Orders Page:** Logged-in users can see their orders.  
+
+---
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Server:** XAMPP (Apache + MySQL)  
+

@@ -61,4 +61,15 @@ Features
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Server:** XAMPP (Apache + MySQL)  
+## Tak 4: SEO & Analytics Integration
+Features Implemented:
 
+Responsive design for mobile and desktop
+
+Interactive navigation bar
+
+Multiple pages (Homepage, Internship, About, Contact)
+
+Images with proper alt text for accessibility
+
+Google Search Console verification integrated
